@@ -37,3 +37,4 @@ while true; do
     fi
   fi
 done
+# Game finished 🎉
